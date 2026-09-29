@@ -117,8 +117,4 @@ Total episodes checked: 4210
 
 ## Contributing
 
-Pull requests and issues are welcome.
-
-## License
-
-Add a license of your choice.
+Pull requests and issues are welcome. I may or may not look into it, but still would love to know :)
